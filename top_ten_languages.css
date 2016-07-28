@@ -1,0 +1,49 @@
+.carousel-inner > .item > img {
+  height: 250px;
+  width: 400px;
+}
+
+.mycarousel {
+  height: 350px;
+  width: 400px;
+}
+
+#myCarousel {
+  width: 400px;
+  height:250px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px #ec8cd0;
+  font-weight: bolder;
+  font-style: oblique;
+
+}
+.jumbotron > h1{
+  color: #1912f0;
+}
+body {
+  background-color: #FDD8C5;
+}
+
+.jumbotron {
+  background-image: url(http://student029.leighcotnoir.com/project1/Scripting/large/Languages.jpg);
+}
+.navbar-default {
+  font-size: 18px;
+  background-color:#C5EAFD;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+
+li {
+  text-align: center;
+  border-bottom: 1px solid #555;
+}
+
+h3 {
+  font-weight: bolder;
+  text-align: center;
+}
